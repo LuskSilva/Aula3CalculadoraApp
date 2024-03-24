@@ -11,6 +11,13 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+ *
+ * NOME: LUCAS GABRIEL VIDA DA SILVA
+ * RA: 12325547
+ *
+ * */
+
 public class MainActivity extends AppCompatActivity {
 
     private double num1 = Double.NaN;
