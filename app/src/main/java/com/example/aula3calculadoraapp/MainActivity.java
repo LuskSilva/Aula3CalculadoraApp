@@ -35,25 +35,21 @@ public class MainActivity extends AppCompatActivity {
         Button porcentButton = findViewById(R.id.porcentButton);
         Button divButton = findViewById(R.id.divButton);
 
-        
         Button sevenButton = findViewById(R.id.sevenButton);
         Button eightButton = findViewById(R.id.eightButton);
         Button nineButton = findViewById(R.id.nineButton);
         Button multButton = findViewById(R.id.multButton);
 
-        
         Button fourButton = findViewById(R.id.fourButton);
         Button fiveButton = findViewById(R.id.fiveButton);
         Button sixButton = findViewById(R.id.sixButton);
         Button subButton = findViewById(R.id.subButton);
 
-        
         Button oneButton = findViewById(R.id.oneButton);
         Button twoButton = findViewById(R.id.twoButton);
         Button threeButton = findViewById(R.id.threeButton);
         Button plusButton = findViewById(R.id.plusButton);
 
-        
         Button zeroButton = findViewById(R.id.zeroButton);
         Button equalsButton = findViewById(R.id.equalsButton);
 
